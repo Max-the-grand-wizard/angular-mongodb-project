@@ -2,7 +2,7 @@
 
 Ett skolprojekt som kombinerar Angular-frontend med en Express-backend och MongoDB-databas. Applikationen har stöd för offline-användning via cachning och kan installeras som en app på din enhet.
 
-![App-screenshot](screenshot.png)
+![App-screenshot](Screenshots/screenshot.png)
 
 
 ##  Funktioner
