@@ -1,0 +1,17 @@
+# Miljövariabler (VIKTIGT!)
+.env
+.env.local
+.env.*.local
+
+# Node
+node_modules/
+npm-debug.log
+
+# Angular
+dist/
+.temp/
+.angular/
+
+# System
+.DS_Store
+Thumbs.db

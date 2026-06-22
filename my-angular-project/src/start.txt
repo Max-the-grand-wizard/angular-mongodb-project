@@ -1,0 +1,4 @@
+npm run build
+cd dist
+npx http-server -p 1240
+eller(om man vill hamna i rätt mapp direkt) npx http-server -p 1240 -o /my-angular-project

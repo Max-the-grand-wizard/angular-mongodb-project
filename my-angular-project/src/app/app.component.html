@@ -1,0 +1,6 @@
+<h1>Lista över bilar</h1>
+<ul>
+  <li *ngFor="let bil of bilar">
+    <strong>{{ bil.brand }} {{ bil.model }}</strong> - {{ bil.color }} ({{ bil.reg }})
+  </li>
+</ul>

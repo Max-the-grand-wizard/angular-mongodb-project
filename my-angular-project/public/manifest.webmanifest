@@ -1,0 +1,21 @@
+{
+  "name": "Min Angular PWA",
+  "short_name": "PWA",
+  "description": "A Angular PWA",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1976d2",
+  "icons": [
+    {
+      "src": "./icons/caricon192px.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./icons/caricon512px.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
